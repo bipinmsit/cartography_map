@@ -1,0 +1,6 @@
+202006191345   0     1     0AASD C:\Users\AASD\Desktop\May_2020\Day_1_May_2020.jpg = CONTOUR(C:\Users\AASD\Desktop\May_2020\Day_1_May_2020.jpg\Band_1,  INTERVAL,
+202006191345   0     0     0AASD C:\Users\AASD\Desktop\May_2020\RS_Day1.tif = CONTOUR(C:\Users\AASD\Desktop\May_2020\RS_Day1.tif,  INTERVAL, 20.0, 0.0)
+202006191345   0     0     0AASD C:\Users\AASD\Desktop\May_2020\RS_Day2.tif = CONTOUR(C:\Users\AASD\Desktop\May_2020\RS_Day2.tif,  INTERVAL, 20.0, 0.0)
+202006191345   0     0     0AASD C:\Users\AASD\Desktop\May_2020\RS_Day3.tif = CONTOUR(C:\Users\AASD\Desktop\May_2020\RS_Day3.tif,  INTERVAL, 20.0, 0.0)
+202006191345   0     0     0AASD C:\Users\AASD\Desktop\May_2020\RS_Day4.tif = CONTOUR(C:\Users\AASD\Desktop\May_2020\RS_Day4.tif,  INTERVAL, 20.0, 0.0)
+202006191345   0     0     0AASD C:\Users\AASD\Desktop\May_2020\RS_Day5.tif = CONTOUR(C:\Users\AASD\Desktop\May_2020\RS_Day5.tif,  INTERVAL, 20.0, 0.0)
